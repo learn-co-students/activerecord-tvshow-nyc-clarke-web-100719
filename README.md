@@ -51,7 +51,7 @@ that will help you pass these tests:
 - [Conditions](http://guides.rubyonrails.org/active_record_querying.html#conditions)
 
 ## Instructions
-
+a
 ### Migration
 
 - Run `mkdir db` and then `mkdir db/migrate` to create the `migrate` folder
